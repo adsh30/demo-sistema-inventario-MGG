@@ -1,0 +1,25 @@
+{
+  "name": "mgg-inventario-demo",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Mineral Group Guayana C.A. · Sistema de Gestión de Inventarios — demo HTML/CSS/JS con arquitectura de monolito modular. Reemplazable por React + Tailwind + Supabase en el producto.",
+  "scripts": {
+    "dev": "serve . --listen 3000 --no-clipboard",
+    "start": "npm run dev",
+    "preview": "npm run dev"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mgg",
+    "mineral-group-guayana",
+    "inventarios",
+    "monolito-modular",
+    "demo"
+  ],
+  "license": "UNLICENSED"
+}
